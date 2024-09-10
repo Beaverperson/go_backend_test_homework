@@ -1,5 +1,7 @@
 package main
 
+//i love python
+
 import (
 	"fmt"
 )
